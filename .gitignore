@@ -2,7 +2,7 @@
 *.class
 node_modules/
 yarn.lock
-dyaml-*
+nyml-*
 # Log file
 *.log
 

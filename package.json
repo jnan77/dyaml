@@ -1,12 +1,12 @@
 {
-  "name": "dyaml",
+  "name": "nyml",
   "version": "1.0.0",
-  "main": "dyaml.js",
+  "main": "nyml.js",
   "license": "MIT",
   "dependencies": {
     "js-yaml": "^4.1.0"
   },
   "description": "yaml文件处理工具",
   "repository": "git@github.com:jnan77/dyaml.git",
-  "author": "qizai <jiannan@intbee.com>"
+  "author": "qizai <jnliok@qq.com>"
 }
